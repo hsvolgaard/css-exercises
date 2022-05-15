@@ -1,0 +1,14 @@
+.clicker, .non-clicker {
+    font-size: 28px;
+    border-color: lightgray;
+    font-family:'Times New Roman', Times, serif
+}
+
+.clicker {
+    color: white;
+    background-color:black;
+}
+
+.non-clicker {
+    background-color:yellow;
+}

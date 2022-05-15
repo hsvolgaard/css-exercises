@@ -1,0 +1,22 @@
+.simple, .difficult {
+    background-color: lightpink;
+}
+
+.difficult {
+    
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+#banger {
+    color: blue;
+    font-size: 35px;
+}
+
+#mid {
+    color: black;
+    background-color: rgb(13, 238, 13);
+    font-weight: bold;
+    font-size: 25px;
+
+}
